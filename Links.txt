@@ -1,0 +1,8 @@
+https://docs.opencv.org/3.4/d4/dee/tutorial_optical_flow.html
+
+https://learnopencv.com/stereo-vision-and-depth-estimation-using-opencv-ai-kit/
+
+https://python-course.eu/machine-learning/training-and-testing-with-mnist.php
+
+https://automaticaddison.com/working-with-ros-and-opencv-in-ros-noetic/
+
